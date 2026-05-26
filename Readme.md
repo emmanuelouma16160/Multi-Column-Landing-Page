@@ -1,0 +1,1 @@
+This is a website used to make awareness of how plant care can be revolutionize with AI. It focuses on different ways in which plant life can be taken care of starting with smart censors, health alerts, plant care guides, data insights, community tips, multi plant support and plant growth tracking. 
