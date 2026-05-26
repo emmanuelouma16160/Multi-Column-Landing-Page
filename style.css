@@ -317,6 +317,13 @@ h2 {
   text-transform: uppercase;
   color: var(--forest);
 }
+h1:hover {
+    background-color: rgb(53, 5, 5);
+    transition: ease-in-out;
+    transform: scaleX(30deg);
+    padding: 40px;
+    border-radius: 40px;
+}
 
 /* Card body */
 .sensors p,
