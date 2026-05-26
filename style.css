@@ -318,7 +318,7 @@ h2 {
   color: var(--forest);
 }
 h1:hover {
-    background-color: rgb(53, 5, 5);
+    background-color: rgb(199, 174, 174);
     transition: ease-in-out;
     transform: scaleX(30deg);
     padding: 40px;
